@@ -1,0 +1,15 @@
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\bin\Debug\week7.exe.config
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\bin\Debug\week7.exe
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\bin\Debug\week7.pdb
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.csprojAssemblyReference.cache
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\App.g.cs
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7_MarkupCompile.cache
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7_MarkupCompile.lref
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\MainWindow.baml
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.g.resources
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.Properties.Resources.resources
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.csproj.GenerateResource.cache
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.exe
+C:\Users\Administrator\ExampleGit\Group1\Blank\week7\obj\Debug\week7.pdb

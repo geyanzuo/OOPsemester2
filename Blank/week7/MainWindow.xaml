@@ -1,0 +1,19 @@
+﻿<Window x:Class="week7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:week7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Add" Content="Add" HorizontalAlignment="Left" Margin="611,197,0,0" VerticalAlignment="Top" Width="114" Height="34" FontSize="24" Click="Add_Click"/>
+        <Button x:Name="Del" Content="Delete All" HorizontalAlignment="Left" Margin="611,349,0,0" VerticalAlignment="Top" Width="114" Height="34" FontSize="24" Click="Del_Click"/>
+        <TextBox x:Name="TXTitem" HorizontalAlignment="Left" Height="39" Margin="477,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" FontSize="24"/>
+        <TextBlock x:Name="item_to_add" HorizontalAlignment="Left" Margin="477,38,0,0" TextWrapping="Wrap" Text="Item To Add" VerticalAlignment="Top" Height="42" Width="248" FontSize="24"/>
+        <TextBlock x:Name="Item_you_have" HorizontalAlignment="Left" Margin="74,38,0,0" TextWrapping="Wrap" Text="Item you have" VerticalAlignment="Top" Height="42" Width="242" FontSize="24"/>
+        <ListBox x:Name="listbox1" HorizontalAlignment="Left" Height="248" Margin="74,102,0,0" VerticalAlignment="Top" Width="316"/>
+        <Button x:Name="delS" Content="Delete select" HorizontalAlignment="Left" Margin="566,272,0,0" VerticalAlignment="Top" Width="159" Height="36" FontSize="24" Click="delS_Click"/>
+
+    </Grid>
+</Window>
